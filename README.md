@@ -65,7 +65,9 @@ Cancer International Consortium (METABRIC)** dataset.
 
 ## Methodology & Architectures
 
-![Attention DeepSurv Pipeline](Figures/GatedAttention_ResidualGatedAttention.png)
+<p align="center">
+  <img src="Figures/GatedAttention_ResidualGatedAttention.png" width="700" height="350">
+</p>
 
 The project evaluates standard survival-analysis baselines and progressively
 develops attention-enhanced DeepSurv architectures.
