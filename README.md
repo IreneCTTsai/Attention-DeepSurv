@@ -66,7 +66,7 @@ Cancer International Consortium (METABRIC)** dataset.
 ## Methodology & Architectures
 
 <p align="center">
-  <img src="Figures/GatedAttention_ResidualGatedAttention.png" width="700" height="350">
+  <img src="Figures/GatedAttention_ResidualGatedAttention.png" width="750" height="350">
 </p>
 
 The project evaluates standard survival-analysis baselines and progressively
